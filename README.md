@@ -1,7 +1,7 @@
 # Floating Navbar
 Hi, I have developed this floating navbar and put some glassmorphism on it, by the way it is already responsive. I hope you like it 🤓
 
-Search the main branch, there you gonna find the code.
+Search the master branch, there you gonna find the code.
 
 I'll share you some of the resources that i used in the project:
 
