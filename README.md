@@ -3,7 +3,7 @@ Hi, I have developed this floating navbar and put some glassmorphism on it, by t
 
 Search the main branch, there you gonna find the code.
 
-I share you some of the resources that i used in the project:
+I'll share you some of the resources that i used in the project:
 
 Open Icon: https://fontawesome.com/icons/bars?f=classic&s=solid <br>
 Close Icon: https://fontawesome.com/icons/xmark?f=classic&s=solid <br>
